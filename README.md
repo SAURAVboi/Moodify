@@ -1,21 +1,22 @@
-# Jaadoo
-Jaadoo is a locally hosted voice assistant powered by DeepSeek API. It listens to your voice, processes queries with AI, and speaks responses — all running seamlessly in your terminal. Experience hands-free interaction with ease!
+# Moodify
+Moodify is a web-based mood booster app built with HTML, CSS, and JavaScript. It features relaxing music and stunning animal photos to uplift your spirits and provide a moment of calm. Designed for simplicity and positivity, Moodify helps you recharge and find joy anytime you need a quick escape.
 
 ## Technologies Used:
-- **python** for the website.
+- *HTML* for the structure of the website.
+- *CSS* for styling and layout.
+- *JavaScript* Java powers website functionality like dynamic content, user interaction, and backend processing. .
 
 ## Features:
-**Features of Jaadoo**
+*Features of Moodify*
 
 ### Features  
 
-- AI-Powered Responses: Uses DeepSeek API to generate intelligent, context-aware answers..  
-- Customizable: Easily adjust voice, language, and add new commands.
+- Relaxing Music : Enjoy a selection of soothing tunes to calm your mind and uplift your mood.  
+- Beautiful Animal Photos : Explore a gallery of stunning animal images to bring a smile to your face.  
 - User-Friendly Interface : Simple and intuitive design for effortless navigation.  
-- you can use it in you command panel by using its name .py 
+- Mood Enhancer : Quick and effective way to relax, recharge, and boost your mood.  
 - Responsive Design : Accessible on all devices, from desktops to smartphones.  
 
-**// I used Deepseek api //**
 
 ###Additional Resources
 •Explore the [Codemun YouTube channel ](https://youtu.be/TxyWL_f9WTs?si=cVzuU38Fgud1NaP0_)for coding tutorials.
