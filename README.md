@@ -15,7 +15,8 @@ Jaadoo is a locally hosted voice assistant powered by DeepSeek API. It listens t
 - you can use it in you command panel by using its name .py 
 - Responsive Design : Accessible on all devices, from desktops to smartphones.  
 
-// I used Deepseek api //
+**// I used Deepseek api //**
+
 ###Additional Resources
 •Explore the [Codemun YouTube channel ](https://youtu.be/TxyWL_f9WTs?si=cVzuU38Fgud1NaP0_)for coding tutorials.
 
